@@ -40,7 +40,7 @@ This project aims to build my foundations in homelabbing. I aim to self-host sev
   - Speed: `1000Mbps`
  
 ### Current Features 
-- [x] Pi-Hole
+- [x] Pi-hole
     - [x] Dashboard
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -65,19 +65,19 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- ROADMAP -->
 ## Roadmap
 
-- [x] pi-hole (ad-blocker)
+- [x] Pi-hole (ad-blocker)
 - [ ] wg-easy (VPN)
 - [ ]  Automation
     - [ ] Ansible
 - [ ] Servers
-    - [ ] Personal Webite
+    - [ ] Personal Website
     - [ ] Minecraft
       
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 | Demo
 | :-:
-| [![][pihole-demo]]
+| [![pihole-demo]][pihole-demo]
 
 
 [pihole-demo]: https://github.com/user-attachments/assets/4a0bfc03-46af-4e8b-92e4-221fd1e400a1
