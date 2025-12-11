@@ -1,4 +1,4 @@
-<img width="1251" height="660" alt="image" src="https://github.com/user-attachments/assets/c0bb7ded-f3fb-4f53-9014-8e9547d1cd07" /><!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -42,8 +42,6 @@ This project aims to build my foundations in homelabbing. I aim to self-host sev
 ### Current Features 
 - [x] Pi-Hole
     - [x] Dashboard
- 
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -64,19 +62,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
@@ -90,6 +75,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
       
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+| Demo
+| :-:
+| [![][pihole-demo]]
+
+[pihole-demo]: <img width="1251" height="660" alt="image" src="https://github.com/user-attachments/assets/c0bb7ded-f3fb-4f53-9014-8e9547d1cd07" />
 
 
 
