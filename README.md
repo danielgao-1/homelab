@@ -96,9 +96,9 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
-* [Best-README-Template]([https://pages.github.com](https://github.com/othneildrew/Best-README-Template))
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 * [Pi-hole.net](https://pi-hole.net/)
-* 
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
