@@ -87,7 +87,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 Project Status: ALPHA
 
-This project aims to build my foundations in homelabbing. I aim to self-host several services listed in the roadmap below.
+This project aims to build my foundations in homelabbing. I aim to self-host several services listed, such as an ad-blocker, VPN, and web servers. More features can be found in the [roadmap](#roadmap) below.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
