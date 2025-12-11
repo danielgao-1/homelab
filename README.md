@@ -1,4 +1,4 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<img width="1251" height="660" alt="image" src="https://github.com/user-attachments/assets/c0bb7ded-f3fb-4f53-9014-8e9547d1cd07" /><!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -25,69 +25,24 @@
 [![Unlicense License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
-<!-- PROJECT LOGO -->
-<!--
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    &middot;
-    <a href="https://github.com/othneildrew/Best-README-Template/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
-  </p>
-</div>
--->
-
-
-<!-- TABLE OF CONTENTS -->
-<!--
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
--->
-
 <!-- ABOUT THE PROJECT -->
 ## Overview
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 Project Status: ALPHA
 
 This project aims to build my foundations in homelabbing. I aim to self-host several services listed, such as an ad-blocker, VPN, and web servers. More features can be found in the [roadmap](#roadmap) below.
+
+### Hardware
+- Raspberry Pi 5:
+  - RAM: `8GB`
+  - SSD: `500GB`
+- Netgear `GS305E` Switch (Managed):
+  - Ports: `5`
+  - Speed: `1000Mbps`
+ 
+### Current Features 
+- [x] Pi-Hole
+    - [x] Dashboard
+ 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
