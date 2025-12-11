@@ -1,1 +1,4 @@
 docker-containers/pi-hole/etc-pihole
+docker-containers/pi-hole/.env
+docker-containers/wg-easy
+docker-containers/caddy
