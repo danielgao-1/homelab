@@ -79,7 +79,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 | :-:
 | [![][pihole-demo]]
 
-[pihole-demo]: <img width="1251" height="660" alt="image" src="https://github.com/user-attachments/assets/c0bb7ded-f3fb-4f53-9014-8e9547d1cd07" />
+
+[pihole-demo]: https://github.com/user-attachments/assets/4a0bfc03-46af-4e8b-92e4-221fd1e400a1
+
 
 
 
