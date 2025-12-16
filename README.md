@@ -58,7 +58,9 @@ This project aims to build my foundations in homelabbing. I aim to self-host sev
     - [ ] Ansible
 - [ ] Servers
     - [ ] Personal Website
-    - [ ] Minecraft
+    - [ ] Game Servers
+      - [ ] Minecraft
+      - [ ] Valheim
       
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
