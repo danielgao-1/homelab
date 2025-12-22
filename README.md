@@ -52,8 +52,12 @@ This project aims to build my foundations in homelabbing. I aim to self-host sev
 
 - [x] Docker
     - [x] Docker Compose
-- [x] Pi-hole (ad-blocker)
-- [ ] wg-easy (VPN)
+- [ ] DNS Sinkholes
+    - [x] Pi-hole
+    - [ ] AdGuard Home
+- [ ] VPN
+  - [ ] wg-easy
+  - [ ] Tailscale
 - [ ]  Automation
     - [ ] Ansible
 - [ ] Servers
